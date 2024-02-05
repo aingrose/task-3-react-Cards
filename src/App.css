@@ -41,3 +41,21 @@ background-color: yellow;
     transform: rotate(360deg);
   }
 }
+
+@media screen and (max-width:576px){
+  .navbar-toggler{
+   margin-left: -90px;
+   background-color: gray;
+}
+.nav-item{
+  margin-left: -160px;
+}
+.card{
+  margin-left: 40px;
+}
+.box-textt{
+  font-size: 14px;
+  margin-left: -10px;
+  
+}
+}
