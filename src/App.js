@@ -49,7 +49,7 @@ function App() {
 
   let cards =[
     {
-      name:'Fancy product',
+      name:'Spicy Mango Pasta ',
       rate:'$40.00 -$80.00',
       view :"Add to Cart",
       sale: false,
@@ -57,7 +57,7 @@ function App() {
 
     },
     {
-      name:'Special Item',
+      name:'Special Pizza',
       rate:'$18.00',
       linecross:"$20.00",
       sale:true,
@@ -68,7 +68,7 @@ function App() {
       
     },
     {
-      name:'Sale Item',
+      name:'Hot Buger',
       rate:'$25.00',
       linecross:"$50.00",
       sale:true,
@@ -78,7 +78,7 @@ function App() {
  
     },
     {
-      name:'Sale Item',
+      name:'Spicy Thai Noodles',
       rate:'$40.00',
       sale: false,
       stars:true,
@@ -86,7 +86,7 @@ function App() {
        img:"https://images.unsplash.com/photo-1564759077036-3def242e69c5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Zm9vZHN8ZW58MHwwfDB8fHww",
  
     },{
-      name:'Popular Item',
+      name:'French Fries',
       rate:'$25.00',
       linecross:"$50.00",
       sale:true,
@@ -95,14 +95,14 @@ function App() {
  
     },
     {
-      name:'Sale Item',
+      name:'Salad',
       rate:'$120.00-280.00',
       sale: false,
       view :"Add to Cart",
        img:"https://images.unsplash.com/photo-1475332363216-323c9b7f1e81?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fGZvb2RzfGVufDB8MHwwfHx8MA%3D%3D",
  
     },{
-      name:'Special Item',
+      name:'Ice Cream',
       rate:'18.00',
       linecross:"$20.00",
       sale:true,
@@ -113,7 +113,7 @@ function App() {
  
     },
     {
-      name:'Popular Item',
+      name:'Veg Con Carne',
       rate:'$40.00',
       sale: false,
       stars:true,
